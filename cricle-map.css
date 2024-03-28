@@ -1,0 +1,125 @@
+.cricle:nth-child(1) {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  left: 49%;
+  z-index: 1;
+  animation: rise 2s linear infinite;
+}
+
+.cricle:nth-child(2) {
+  width: 19px;
+  height: 19px;
+  border-radius: 50%;
+  left: 48%;
+  z-index: 1;
+  animation: rise 2s linear infinite;
+}
+
+.cricle:nth-child(3) {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  left: 48%;
+  z-index: 1;
+  animation: rise 4s linear infinite;
+}
+
+.cricle:nth-child(4) {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  left: 49%;
+  z-index: 1;
+  animation: rise 3s linear infinite;
+}
+
+.cricle:nth-child(5) {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  left: 49%;
+  z-index: 1;
+  animation: rise 4s linear infinite;
+}
+
+.cricle:nth-child(6) {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  left: 49%;
+  z-index: 1;
+  animation: rise 5s linear infinite;
+}
+
+.cricle:nth-child(7) {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  left: 49%;
+  z-index: 1;
+  animation: rise 6s linear infinite;
+}
+
+.cricle:nth-child(8) {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  left: 49%;
+  z-index: 1;
+  animation: rise 5s linear infinite;
+}
+
+.cricle:nth-child(9) {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  left: 48%;
+  z-index: 1;
+  animation: rise 2s linear infinite;
+}
+
+.cricle:nth-child(10) {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  left: 49%;
+  z-index: 1;
+  animation: rise 11s linear infinite;
+}
+
+.cricle:nth-child(11) {
+  width: 21px;
+  height: 21px;
+  border-radius: 50%;
+  left: 48%;
+  z-index: 1;
+  animation: rise 11s linear infinite;
+}
+
+.cricle:nth-child(12) {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  left: 48%;
+  z-index: 1;
+  animation: rise 13s linear infinite;
+}
+
+.cricle:nth-child(13) {
+  width: 23px;
+  height: 23px;
+  border-radius: 50%;
+  left: 48%;
+  z-index: 1;
+  animation: rise 9s linear infinite;
+}
+
+.cricle:nth-child(14) {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  left: 48%;
+  z-index: 1;
+  animation: rise 10s linear infinite;
+}
